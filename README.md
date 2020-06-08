@@ -1,4 +1,4 @@
-# mama-money-assessment
+# Money Transfer Assessment
 
 ## Steps to run this application
 * make git clone of the master repository
