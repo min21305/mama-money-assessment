@@ -1,6 +1,6 @@
 # Money Transfer Assessment
 
-## Steps to run this application
+## Steps to run application
 * make git clone of the master repository
 * open command prompt and point to this repository folder
 * run: mvn clean install
