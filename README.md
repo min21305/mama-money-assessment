@@ -8,6 +8,15 @@
 * open http://localhost:8080/swagger-ui.html url
 * run service
 
+## Info
+In order to validate the MSISDN in system, I've used H2 database and added script to load MSIDN at start-up
+
+* Data Script
+```json
+INSERT INTO MSISDNData(MSISDN) VALUES('27821231234');
+INSERT INTO MSISDNData(MSISDN) VALUES('123456789');
+```
+
 ## Request and Response Details
 
 * Request_1
